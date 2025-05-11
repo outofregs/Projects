@@ -1,3 +1,6 @@
+"""To run this calculater make sure the program is in root/users/ or C:\Useres\ and use python3 or python then 'IPSubnetCalc.py 192.168.x.x/24' """
+
+
 """
 Script: IP Subnet Calculator
 Action: Takes a given IP address gives you the subnet mask, network address, broadcast address, and number of hosts in the subnet.
