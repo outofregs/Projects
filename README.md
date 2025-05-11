@@ -1,2 +1,2 @@
 # Projects  
-Welcome to my projects repository! Here, you'll find a collection of my ongoing work in various areas of programming and development. These projects mostly used in school projects and other similar functions. Feel free to use or modfy and of these projects however you see fit. 
+# All the scripts in this repository are passion projects while I go to school. Some are funcionable and some are not. Most of the scripts are continuesly being updated with new concepts I am learning day by day. Feel free to try out or modify any of these scripts as you see fit.
